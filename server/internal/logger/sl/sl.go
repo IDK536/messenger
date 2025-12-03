@@ -2,7 +2,7 @@ package sl
 
 import (
 	"log/slog"
-	"messenger/internal/types"
+	"messanger/internal/types"
 	"os"
 
 	"github.com/lmittmann/tint"

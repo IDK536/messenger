@@ -1,8 +1,8 @@
 package main
 
 import (
-	"messenger/internal/app"
-	"messenger/internal/config"
+	"messanger/internal/app"
+	"messanger/internal/config"
 )
 
 func main() {
